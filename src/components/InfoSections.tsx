@@ -2,18 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { 
-  Engine, 
-  Settings, 
-  Zap, 
-  Gauge, 
-  Shield, 
-  Wrench, 
-  Car, 
-  Clock, 
-  Award, 
-  Users 
-} from 'lucide-react';
+import { Wine as Engine, Settings, Zap, Gauge, Shield, Wrench, Car, Clock, Award, Users } from 'lucide-react';
 
 const InfoSections = () => {
   const sections = [

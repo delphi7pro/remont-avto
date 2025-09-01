@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Search, Cpu, Gauge, Zap, Engine, Settings } from 'lucide-react';
+import { Search, Cpu, Gauge, Zap, Wine as Engine, Settings } from 'lucide-react';
 
 const Diagnostics = () => {
   const diagnosticTypes = [

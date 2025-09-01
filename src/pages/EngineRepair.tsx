@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Engine, CheckCircle, Clock, Shield } from 'lucide-react';
+import { Wine as Engine, CheckCircle, Clock, Shield } from 'lucide-react';
 
 const EngineRepair = () => {
   const services = [
